@@ -1,3 +1,4 @@
+# run the command npm install for node_modules
 # CounterApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.0.
