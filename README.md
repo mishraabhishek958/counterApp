@@ -1,7 +1,16 @@
-# run the command npm install for node_modules
+## Run the command npm install for node_modules
 # CounterApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.0.
+There are 3 buttons which handles the clicks of the user.
+1) Increases the count till the upper limit
+2) Decreases the count till 0
+3) Reset the count to 0
+
+## Run the command npm install for node_modules
+
+##Learning from this project
+1)Event Binding and Interpolation
 
 ## Development server
 
